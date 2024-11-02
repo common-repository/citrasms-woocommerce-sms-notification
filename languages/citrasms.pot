@@ -1,0 +1,316 @@
+# Copyright (C) 2018
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: support@wedevs.com\n"
+"POT-Creation-Date: 2017-06-30 21:13:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: classes/setting-options.php:44 classes/setting-options.php:129
+msgid "SMS Settings"
+msgstr ""
+
+#: classes/setting-options.php:45
+msgid "Send SMS to Any"
+msgstr ""
+
+#: classes/setting-options.php:55
+msgid "Send SMS to Any Number"
+msgstr ""
+
+#: classes/setting-options.php:57
+msgid ""
+"Make sure that the message recipient number must have country code as an "
+"extension with phone number ( e.g: the number format must be like this "
+"<code>+6201671123456</code>), where <code>+62</code> country code as an "
+"extension"
+msgstr ""
+
+#: classes/setting-options.php:61
+msgid "<strong>Error:</strong> Receiver phone number must be required"
+msgstr ""
+
+#: classes/setting-options.php:67
+msgid "<strong>Error:</strong> Gateway doesn't Set"
+msgstr ""
+
+#: classes/setting-options.php:73
+msgid ""
+"<strong>Error:</strong> Message Sending faild, Please check your number or "
+"gateway settings"
+msgstr ""
+
+#: classes/setting-options.php:79
+msgid "<strong>Success:</strong> Message Sucessfully Send to Receiver"
+msgstr ""
+
+#: classes/setting-options.php:88
+msgid "Receiver Number"
+msgstr ""
+
+#: classes/setting-options.php:90
+msgid "Enter your sms receiver number, number must have an extension"
+msgstr ""
+
+#: classes/setting-options.php:94
+msgid "SMS Body"
+msgstr ""
+
+#: classes/setting-options.php:96
+msgid "Enter your message body what you like you want to send this receiver"
+msgstr ""
+
+#: classes/setting-options.php:101
+msgid "Send SMS"
+msgstr ""
+
+#: classes/setting-options.php:120
+msgid "General Settings"
+msgstr ""
+
+#: classes/setting-options.php:124
+msgid "SMS Gateway Settings"
+msgstr ""
+
+#: classes/setting-options.php:134
+msgid "SMS Body Settings"
+msgstr ""
+
+#: classes/setting-options.php:154
+msgid "Enable SMS Notifications"
+msgstr ""
+
+#: classes/setting-options.php:155
+msgid "If checked then enable your sms notification for new order"
+msgstr ""
+
+#: classes/setting-options.php:161
+msgid "Enable Admin Notifications"
+msgstr ""
+
+#: classes/setting-options.php:162
+msgid "If checked then enable admin sms notification for new order"
+msgstr ""
+
+#: classes/setting-options.php:169
+msgid "Enable buyer Notification"
+msgstr ""
+
+#: classes/setting-options.php:170
+msgid "If checked then buyer can get notification options in checkout page"
+msgstr ""
+
+#: classes/setting-options.php:176
+msgid "Force buyer notification"
+msgstr ""
+
+#: classes/setting-options.php:177
+msgid ""
+"If select yes then buyer notification option must be required in checkout "
+"page"
+msgstr ""
+
+#: classes/setting-options.php:188
+msgid "Buyer Notification Text"
+msgstr ""
+
+#: classes/setting-options.php:189
+msgid "Enter your text which is appeared in checkout page for buyer as a checkbox"
+msgstr ""
+
+#: classes/setting-options.php:195
+msgid "Check Order Status "
+msgstr ""
+
+#: classes/setting-options.php:196
+msgid "In which status you will send notifications"
+msgstr ""
+
+#: classes/setting-options.php:205
+msgid "Select your Gateway"
+msgstr ""
+
+#: classes/setting-options.php:206
+msgid "Select your sms gateway"
+msgstr ""
+
+#: classes/setting-options.php:216
+msgid "Enter your Phone Number with extension"
+msgstr ""
+
+#: classes/setting-options.php:217
+msgid ""
+"<br>Admin order sms notifications will be send in this number. Please make "
+"sure that the number must have a extension (e.g.: +6280121 where +62 "
+"will be extension)"
+msgstr ""
+
+#: classes/setting-options.php:222
+msgid "Enter your SMS body"
+msgstr ""
+
+#: classes/setting-options.php:223 classes/setting-options.php:312
+#: classes/setting-options.php:334
+msgid ""
+"Write your custom message. When an order is create then you get this type "
+"of format message."
+msgstr ""
+
+#: classes/setting-options.php:230
+msgid "Enter buyer SMS body"
+msgstr ""
+
+#: classes/setting-options.php:231
+msgid ""
+"Write your custom message. If enbale buyer notification options then buyer "
+"can get this message in this format."
+msgstr ""
+
+#: classes/setting-options.php:241
+msgid "Enable different message for different order status"
+msgstr ""
+
+#: classes/setting-options.php:242
+msgid ""
+"If checked then admin and buyer get sms body content according with "
+"different enabled order status"
+msgstr ""
+
+#: classes/setting-options.php:288
+msgid "--select--"
+msgstr ""
+
+#: classes/setting-options.php:291
+msgid "Citrasms"
+msgstr ""
+
+
+#: classes/setting-options.php:311
+msgid ""
+"Set your sms content according to your enabled order status in General "
+"Settings"
+msgstr ""
+
+#: classes/setting-options.php:321 classes/setting-options.php:343
+msgid "Order Status"
+msgstr ""
+
+#: classes/setting-options.php:333
+msgid "Set sms content according to your enabled order status in General Settings"
+msgstr ""
+
+#: classes/setting-options.php:352
+msgid ""
+"Sorry no order status will be selected for sending SMS. Please select some "
+"order status from General Settings Tab"
+msgstr ""
+
+#: classes/setting-options.php:414
+msgid "Talk with text Username"
+msgstr ""
+
+#: classes/setting-options.php:417
+msgid ""
+"The HTTP API username that is supplied to your account (most of the times "
+"it is your email)"
+msgstr ""
+
+#: classes/setting-options.php:422
+msgid "Talk with text API key"
+msgstr ""
+
+#: classes/setting-options.php:425
+msgid "The HTTP API Key of your account"
+msgstr ""
+
+#: classes/setting-options.php:430
+msgid "Talk with text Originator"
+msgstr ""
+
+#: classes/setting-options.php:433
+msgid "The originator of your message (11 alphanumeric or 14 numeric values)"
+msgstr ""
+
+
+
+#: classes/setting-options.php:449
+msgid "From which number the message will be sent to the users"
+msgstr ""
+
+#: classes/setting-options.php:454
+msgid "Citrasms Auth"
+msgstr ""
+
+#: classes/setting-options.php:457
+msgid "Citrasms Auth"
+msgstr ""
+
+#: classes/setting-options.php:463
+msgid "Citrasms Secret"
+msgstr ""
+
+#: classes/setting-options.php:466
+msgid "Citrasms Secret"
+msgstr ""
+
+
+#: classes/setting-options.php:680
+msgid ""
+"Max 11 Latin letters or numbers. Only Latin characters please, Unicode is "
+"not allowed."
+msgstr ""
+
+#: lib/class.settings-api.php:295
+msgid "Browse"
+msgstr ""
+
+#: citra-wc-order-sms.php:199
+msgid "<strong>Send Notification Via SMS</strong> must be required"
+msgstr ""
+
+#: citra-wc-order-sms.php:211
+msgid "Buyer want to get SMS notification"
+msgstr ""
+
+#: citra-wc-order-sms.php:242
+msgid "You have a new Order. The [order_id] is now [order_status]"
+msgstr ""
+
+#: citra-wc-order-sms.php:243
+msgid "Thanks for purchasing. Your [order_id] is now [order_status]. Thank you"
+msgstr ""
+
+#: citra-wc-order-sms.php:336 citra-wc-order-sms.php:360
+msgid "SMS Send Successfully"
+msgstr ""
+
+#: citra-wc-order-sms.php:338 citra-wc-order-sms.php:362
+msgid "SMS Send Faild, Somthing wrong"
+msgstr ""
+
+#: citra-wc-order-sms.php:347
+msgid "SMS Send to buyer Successfully"
+msgstr ""
+
+#: citra-wc-order-sms.php:349
+msgid "SMS Send Faild to buyer, Somthing wrong"
+msgstr ""
+
+#: citra-wc-order-sms.php:416
+msgid "Send SMS to Buyer"
+msgstr ""
+
+#: citra-wc-order-sms.php:429
+msgid "Send Custom SMS to this buyer"
+msgstr ""
+
+#: citra-wc-order-sms.php:430
+msgid "Message will be send in this buyer billing number "
+msgstr ""
